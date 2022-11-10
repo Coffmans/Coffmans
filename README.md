@@ -31,4 +31,4 @@
 
 # Blog posts
 
-[![Coffmans Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@coffmans)
+[![Coffmans Medium](https://github-readme-medium.vercel.app/?username=coffmans&limit=5)](https://medium.com/@coffmans)
