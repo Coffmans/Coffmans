@@ -28,3 +28,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coffmans&show_icons=true&locale=en&layout=compact" alt="coffmans" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coffmans&show_icons=true&locale=en" alt="coffmans" /></p>
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
