@@ -29,6 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coffmans&show_icons=true&locale=en" alt="coffmans" /></p>
 
-# Blog posts
+# Medium posts
 
 [![Coffmans Medium](https://github-readme-medium.vercel.app/?username=coffmans&limit=5)](https://medium.com/@coffmans)
