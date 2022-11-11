@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **as much as I can**
 
-- 💬 Ask me about **comic books**
+- 💬 Ask me about **whatever you want**
 
 - ⚡ Fun fact **I started my career in COBOL**
 
