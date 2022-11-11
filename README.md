@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **comic books**
 
-- 📫 How to reach me **coffmans@gmail.com**
-
 - ⚡ Fun fact **I started my career in COBOL**
 
 <h3 align="left">Connect with me:</h3>
