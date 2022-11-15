@@ -24,3 +24,4 @@
 <h3 align="left">Medium Posts</h3
 
 [![Coffmans Medium](https://github-readme-medium.vercel.app/?username=coffmans&limit=5)](https://medium.com/@coffmans)
+[![Coffmans Medium](https://github-readme-medium.vercel.app/?username=coffmans&limit=5&bg=222f2e&text=ff0000)](https://medium.com/@coffmans)
