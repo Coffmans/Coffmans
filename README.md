@@ -1,16 +1,10 @@
-<h1>Hello, I'm Shawn</h1>
-
-I am Director of US-Product Development for RCS as well as an avid software developer!
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coffmans&label=Profile%20views&color=0e75b6&style=flat" alt="coffmans" /> </p>
-
 <h3 align="left">About Me</h3>
 
 - 🔭 I’m currently working on **a variety of projects**
 - 🌱 I’m currently learning **as much as I can**
 - 💬 Ask me about **whatever you want**
 - ⚡ Fun fact **I started my career in COBOL**
-- 👀 I am a technology junky that loves to try new things
+- 👀 I love coding and learning new things about technology
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
