@@ -6,13 +6,9 @@
 <h3 align="left">About Me</h3>
 
 - 🔭 I’m currently working on **a variety of projects**
-
 - 🌱 I’m currently learning **as much as I can**
-
 - 💬 Ask me about **whatever you want**
-
 - ⚡ Fun fact **I started my career in COBOL**
-
 - 👀 I am a technology junky that loves to try new things
 
 <h3 align="left">Connect with me:</h3>
