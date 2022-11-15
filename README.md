@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shawn Coffman</h1>
-<h3 align="center">I am Director of US-Product Development for RCS as well as an avid software developer</h3>
+<align="center">I am Director of US-Product Development for RCS as well as an avid software developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coffmans&label=Profile%20views&color=0e75b6&style=flat" alt="coffmans" /> </p>
 
