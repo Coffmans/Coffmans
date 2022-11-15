@@ -3,15 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coffmans&label=Profile%20views&color=0e75b6&style=flat" alt="coffmans" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coffmans" alt="coffmans" /></a> </p>
-
+<h3 align="left">About Me</h3>
 - 🔭 I’m currently working on **a variety of projects**
-
 - 🌱 I’m currently learning **as much as I can**
-
 - 💬 Ask me about **whatever you want**
-
 - ⚡ Fun fact **I started my career in COBOL**
+- 👀 I am a technology junky that loves to try new things
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
