@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shawn Coffman</h1>
-<align="center">I am Director of US-Product Development for RCS as well as an avid software developer
+<h1>Hello, I'm Shawn</h1>
+
+I am Director of US-Product Development for RCS as well as an avid software developer!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coffmans&label=Profile%20views&color=0e75b6&style=flat" alt="coffmans" /> </p>
 
@@ -19,13 +20,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="csharp" width="40" height="40"/> </a>
+</p>
 
-<h3 align="left">Medium Posts</h3
-
-[![Coffmans Medium](https://github-readme-medium.vercel.app/?username=coffmans)](https://medium.com/@coffmans)
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@coffmans/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@coffmans/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@coffmans/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@coffmans/1" alt="Recent Article 1">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@coffmans/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@coffmans/2" alt="Recent Article 2">
+<h3 align="left">My Latest Medium Posts</h3>
+<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=coffmans&limit=6"/>
 
