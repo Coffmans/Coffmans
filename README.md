@@ -24,3 +24,8 @@
 <h3 align="left">Medium Posts</h3
 
 [![Coffmans Medium](https://github-readme-medium.vercel.app/?username=coffmans&limit=5)](https://medium.com/@coffmans)
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@coffmans/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@coffmans/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@coffmans/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@coffmans/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@coffmans/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@coffmans/2" alt="Recent Article 2">
+
