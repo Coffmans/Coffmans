@@ -23,10 +23,14 @@
 </p>
 
 <h3 align="left">My Latest Medium Posts</h3>
-<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=coffmans&limit=6"/>
-
-# Blog posts
+<!--<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=coffmans&limit=5"/> -->
+  
 <!-- BLOG-POST-LIST:START -->
+- [If someone were interested in software development, where would that person start?](https://medium.com/@coffmans/if-someone-were-interested-in-software-development-where-would-that-person-start-afa0f80a98dc)
+- [My Insanely Easy Tips For A Better Interview](https://medium.com/@coffmans/my-insanely-easy-tips-for-a-better-interview-aa75cbc29814)
+- [Awesome Extensions For Visual Studio 2019](https://medium.com/@coffmans/awesome-extensions-for-visual-studio-2019-95f877d8326c)
+- [Paste JSON/XML As Classes in Visual Studio](https://medium.com/@coffmans/paste-json-xml-as-classes-in-visual-studio-66e67e60be44)
+- [Obfuscate And Decompile](https://medium.com/@coffmans/obfuscate-and-decompile-b25f2c11519a)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Daily.dev</h3>
