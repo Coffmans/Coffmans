@@ -25,3 +25,5 @@
 <h3 align="left">My Latest Medium Posts</h3>
 <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=coffmans&limit=6"/>
 
+<h3 align="left">Daily.dev</h3>
+<a href="https://app.daily.dev/Coffmans"><img src="https://api.daily.dev/devcards/49d455b0ad5a4f9ea867ed2983445ac3.png?r=fgv" width="200" alt="Shawn Coffman's Dev Card"/></a>
