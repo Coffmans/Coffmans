@@ -22,16 +22,5 @@
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="csharp" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">My Latest Medium Posts</h3>
-<!--<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=coffmans&limit=5"/> -->
-  
-<!-- BLOG-POST-LIST:START -->
-- [If someone were interested in software development, where would that person start?](https://medium.com/@coffmans/if-someone-were-interested-in-software-development-where-would-that-person-start-afa0f80a98dc)
-- [My Insanely Easy Tips For A Better Interview](https://medium.com/@coffmans/my-insanely-easy-tips-for-a-better-interview-aa75cbc29814)
-- [Awesome Extensions For Visual Studio 2019](https://medium.com/@coffmans/awesome-extensions-for-visual-studio-2019-95f877d8326c)
-- [Paste JSON/XML As Classes in Visual Studio](https://medium.com/@coffmans/paste-json-xml-as-classes-in-visual-studio-66e67e60be44)
-- [Obfuscate And Decompile](https://medium.com/@coffmans/obfuscate-and-decompile-b25f2c11519a)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Daily.dev</h3>
 <a href="https://app.daily.dev/Coffmans"><img src="https://api.daily.dev/devcards/49d455b0ad5a4f9ea867ed2983445ac3.png?r=fgv" width="200" alt="Shawn Coffman's Dev Card"/></a>
