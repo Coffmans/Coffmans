@@ -24,7 +24,7 @@ I am a jack of all trades. I am the Director of US Product Development, Product 
 ![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=plastic)
 
 #### Technologies I Have Worked With
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge")
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=plastic)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=plastic)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=plastic)
