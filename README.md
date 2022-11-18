@@ -39,6 +39,9 @@ I am a jack of all trades. I am the Director of US Product Development, Product 
 ![Powershell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=plastic)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=plastic)
 ![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=fff&style=plastic)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=plastic)
+![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff&style=plastic)
+![GitKraken](https://img.shields.io/badge/GitKraken-179287?logo=gitkraken&logoColor=fff&style=plastic)
 
 #### Other Things That Help Me
 ![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=fff&style=plastic)
@@ -46,6 +49,7 @@ I am a jack of all trades. I am the Director of US Product Development, Product 
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?logo=duckduckgo&logoColor=fff&style=plastic)
 ![Feedly](https://img.shields.io/badge/Feedly-2BB24C?logo=feedly&logoColor=fff&style=plastic)
 ![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=plastic)
+![BitWarden](https://img.shields.io/badge/Bitwarden-175DDC?logo=bitwarden&logoColor=fff&style=plastic)
 
 #### Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
