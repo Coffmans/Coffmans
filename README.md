@@ -35,7 +35,7 @@ I am Director of US Product Development, a Product Manager for various projects,
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="csharp" width="40" height="40"/> </a>
 </p>
 
-### Latest Medium Posts
+### Medium Activity
 <!-- MEDIUM-LIST:START -->
 <!-- MEDIUM-LIST:END -->
 
