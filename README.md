@@ -34,11 +34,18 @@ I am a jack of all trades. I am the Director of US Product Development, Product 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=plastic)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
 ![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=000&style=plastic)
+![Microsoft Edge](https://img.shields.io/badge/Microsoft%20Edge-0078D7?logo=microsoftedge&logoColor=fff&style=plastic)
+![Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=googlechrome&logoColor=fff&style=plastic)
+![Powershell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=plastic)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=plastic)
+![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=fff&style=plastic)
 
-#### Other Resources I Use
+#### Other Things That Help Me
 ![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=fff&style=plastic)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff&style=plastic)
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?logo=duckduckgo&logoColor=fff&style=plastic)
+![Feedly](https://img.shields.io/badge/Feedly-2BB24C?logo=feedly&logoColor=fff&style=plastic)
+![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=plastic)
 
 #### Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
