@@ -36,8 +36,8 @@ I am Director of US Product Development, a Product Manager for various projects,
 </p>
 
 ### Medium Activity
-<!-- MEDIUM-LIST:START -->
-<!-- MEDIUM-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Daily.dev</h3>
 <a href="https://app.daily.dev/Coffmans"><img src="https://api.daily.dev/devcards/49d455b0ad5a4f9ea867ed2983445ac3.png?r=fgv" width="100" alt="Shawn Coffman's Dev Card"/></a>
