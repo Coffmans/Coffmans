@@ -53,9 +53,9 @@ I am a jack of all trades. I am the Director of US Product Development, Product 
 
 #### Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
+- [Chocolatey GUI](https://medium.com/@coffmans/chocolatey-gui-acfd463ef1f2?source=rss-da6db9ec846b------2)
 - [Resources to Stay Up-to-Date For Developers](https://medium.com/@coffmans/resources-to-stay-up-to-date-for-developers-596065874686?source=rss-da6db9ec846b------2)
 - [If someone were interested in software development, where would that person start?](https://medium.com/@coffmans/if-someone-were-interested-in-software-development-where-would-that-person-start-afa0f80a98dc?source=rss-da6db9ec846b------2)
 - [My Insanely Easy Tips For A Better Interview](https://medium.com/@coffmans/my-insanely-easy-tips-for-a-better-interview-aa75cbc29814?source=rss-da6db9ec846b------2)
 - [Awesome Extensions For Visual Studio 2019](https://medium.com/@coffmans/awesome-extensions-for-visual-studio-2019-95f877d8326c?source=rss-da6db9ec846b------2)
-- [Paste JSON/XML As Classes in Visual Studio](https://medium.com/@coffmans/paste-json-xml-as-classes-in-visual-studio-66e67e60be44?source=rss-da6db9ec846b------2)
 <!-- BLOG-POST-LIST:END -->
