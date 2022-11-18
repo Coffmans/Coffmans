@@ -1,41 +1,47 @@
-I am Director of US Product Development, a Product Manager for various projects, and a software developer.
+#### Who Am I
+I am a jack of all trades. I am the Director of US Product Development, Product Manager for several products, and a software developer. 
 
-<h3 align="left">About Me</h3>
-
+- 🪐 I'm responsible for leading developers, documentation specialists, and assistant product managers
+- 🧪 I'm the principle developer for legacy products
 - 🔭 I’m currently working on **a variety of projects**
 - 🌱 I’m currently learning **as much as I can**
 - 💬 Ask me about **whatever you want**
-- ⚡ Fun fact **I started my career in COBOL**
+- ⚡ Fun fact **I started my career in COBOL which was a lifetime ago**
 - 👀 I love coding and learning new things about technology
+- 💜 Interests include comic books, DIY projects, playing Fortnite with my family
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/coffmans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="coffmans" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shawn-coffman-874a5b85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shawn-coffman-874a5b85" height="30" width="40" /></a>
-<a href="https://medium.com/@coffmans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@coffmans" height="30" width="40" /></a>
-</p>
+#### Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic)](https://www.linkedin.com/in/shawn-coffman-874a5b85//)
+[![Medium](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=plastic)](https://www.medium.com/@coffmans)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=plastic)](https://dev.to/coffmans)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=plastic)](https://twitter.com/NUHuskerz)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="csharp" width="40" height="40"/> </a>
-</p>
 
-### Medium Activity
+#### Languages I Use
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=plastic)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=plastic)
+![C#](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=plastic)
+![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=plastic)
+
+#### Technologies I Have Worked With
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge")
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=plastic)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=plastic)
+![Windows11](https://img.shields.io/badge/Windows%2011-0078D4?logo=windows11&logoColor=fff&style=plastic)
+
+#### Tools I Use
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=plastic)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
+![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=000&style=plastic)
+
+#### Other Resources I Use
+![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=fff&style=plastic)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff&style=plastic)
+![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?logo=duckduckgo&logoColor=fff&style=plastic)
+
+#### Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
 - [Resources to Stay Up-to-Date For Developers](https://medium.com/@coffmans/resources-to-stay-up-to-date-for-developers-596065874686?source=rss-da6db9ec846b------2)
 - [If someone were interested in software development, where would that person start?](https://medium.com/@coffmans/if-someone-were-interested-in-software-development-where-would-that-person-start-afa0f80a98dc?source=rss-da6db9ec846b------2)
@@ -43,6 +49,3 @@ I am Director of US Product Development, a Product Manager for various projects,
 - [Awesome Extensions For Visual Studio 2019](https://medium.com/@coffmans/awesome-extensions-for-visual-studio-2019-95f877d8326c?source=rss-da6db9ec846b------2)
 - [Paste JSON/XML As Classes in Visual Studio](https://medium.com/@coffmans/paste-json-xml-as-classes-in-visual-studio-66e67e60be44?source=rss-da6db9ec846b------2)
 <!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Daily.dev</h3>
-<a href="https://app.daily.dev/Coffmans"><img src="https://api.daily.dev/devcards/49d455b0ad5a4f9ea867ed2983445ac3.png?r=fgv" width="100" alt="Shawn Coffman's Dev Card"/></a>
