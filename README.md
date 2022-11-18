@@ -1,4 +1,4 @@
-I am Directory of US Product Development, a Product Manager for various projects, and a software developer.
+I am Director of US Product Development, a Product Manager for various projects, and a software developer.
 
 <h3 align="left">About Me</h3>
 
