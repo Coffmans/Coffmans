@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?width=600&size=24&lines=Who+Am+I?;Hi,+I'm+Shawn,+Welcome+To+My+Profile;I+am+Director+of+US+Product+Development;+Product+Manager+For+Several+Products;+And+Software+Developer!)](https://git.io/typing-svg)
 
-#### About Me
-I am a jack of all trades. I am the Director of US Product Development, Product Manager for several products, and a software developer. 
+#### A Quick Introduction
+I'm a jack of all trades. I am the Director of US Product Development, Product Manager for several products, and a software developer. 
 
 - 🪐 I'm responsible for leading developers, documentation specialists, and assistant product managers
 - 🧪 I'm the principle developer for legacy products
