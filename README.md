@@ -19,6 +19,7 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 [![Medium](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=plastic)](https://www.medium.com/@coffmans)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=plastic)](https://dev.to/coffmans)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=plastic)](https://twitter.com/NUHuskerz)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=plastic)](mailto:coffmans@gmail.com)
 
 ---
 
