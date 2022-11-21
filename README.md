@@ -67,7 +67,7 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=plastic)
 ![Resharper](https://img.shields.io/badge/ReSharper-000?logo=resharper&logoColor=fff&style=plastic)
 ![SourceTree](https://img.shields.io/badge/Sourcetree-0052CC?logo=sourcetree&logoColor=fff&style=plastic)
-![Stylus](https://img.shields.io/badge/Stylus-333?logo=stylus&logoColor=fff&style=plastic))
+![Stylus](https://img.shields.io/badge/Stylus-333?logo=stylus&logoColor=fff&style=plastic)
 ![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=fff&style=plastic)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=plastic)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=plastic)
