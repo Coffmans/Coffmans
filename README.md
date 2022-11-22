@@ -16,6 +16,7 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 
 #### Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic)](https://www.linkedin.com/in/shawn-coffman-874a5b85//)
+![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff&style=plastic)
 [![Medium](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=plastic)](https://www.medium.com/@coffmans)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=plastic)](https://dev.to/coffmans)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=plastic)](https://twitter.com/NUHuskerz)
