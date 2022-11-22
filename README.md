@@ -93,7 +93,7 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 
 ---
 
-#### Medium Blog
+#### Medium Blog - Last 5 Posts
 <!-- BLOG-POST-LIST:START -->
 - [Chocolatey GUI](https://medium.com/@coffmans/chocolatey-gui-acfd463ef1f2?source=rss-da6db9ec846b------2)
 - [Resources to Stay Up-to-Date For Developers](https://medium.com/@coffmans/resources-to-stay-up-to-date-for-developers-596065874686?source=rss-da6db9ec846b------2)
