@@ -28,6 +28,7 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=plastic)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=plastic)
 ![C#](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=plastic)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic)
 ![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=plastic)
 
 ---
