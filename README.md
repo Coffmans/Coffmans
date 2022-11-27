@@ -64,6 +64,7 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft%20Edge-0078D7?logo=microsoftedge&logoColor=fff&style=plastic)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=fff&style=plastic)
 ![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=000&style=plastic)
+![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=plastic)
 ![Perforce](https://img.shields.io/badge/Perforce-404040?logo=perforce&logoColor=fff&style=plastic)
 ![Powershell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=plastic)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=plastic)
