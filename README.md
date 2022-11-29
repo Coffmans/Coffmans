@@ -77,12 +77,12 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 ![IFTTT Badge](https://img.shields.io/badge/IFTTT-000?logo=ifttt&logoColor=fff&style=plastic)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft%20Edge-0078D7?logo=microsoftedge&logoColor=fff&style=plastic)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=fff&style=plastic)
+![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=fff&style=plastic)
 ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=plastic)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=plastic)
 ![Resharper](https://img.shields.io/badge/ReSharper-000?logo=resharper&logoColor=fff&style=plastic)
 ![SourceTree](https://img.shields.io/badge/Sourcetree-0052CC?logo=sourcetree&logoColor=fff&style=plastic)
 ![Stylus](https://img.shields.io/badge/Stylus-333?logo=stylus&logoColor=fff&style=plastic)
-![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=fff&style=plastic)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=plastic)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=plastic)
 ![WireShark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=fff&style=plastic)
@@ -92,14 +92,21 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 
 ---
 
-#### Other Things That Help Me
+#### Learning
 ![Coursera Badge](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff&style=plastic)
+![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=fff&style=plastic)
+![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?logo=microsoft&logoColor=fff&style=plastic)
+![Udacity Badge](https://img.shields.io/badge/Udacity-02B3E4?logo=udacity&logoColor=fff&style=plastic)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff&style=plastic)
+
+
+---
+#### Other Things That Help Me
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?logo=duckduckgo&logoColor=fff&style=plastic)
 ![Feedly](https://img.shields.io/badge/Feedly-2BB24C?logo=feedly&logoColor=fff&style=plastic)
 ![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DA552F?logo=producthunt&logoColor=fff&style=plastic)
 ![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=plastic)
 ![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=fff&style=plastic)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff&style=plastic)
 ![WikiPedia](https://img.shields.io/badge/Wikipedia-000?logo=wikipedia&logoColor=fff&style=plastic)
 ![XDA Developers Badge](https://img.shields.io/badge/XDA%20Developers-EA7100?logo=xdadevelopers&logoColor=fff&style=plastic)
 
