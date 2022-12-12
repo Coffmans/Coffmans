@@ -58,6 +58,11 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 ![LastFM](https://img.shields.io/badge/Last.fm-D51007?logo=lastdotfm&logoColor=fff&style=plastic)
 ![MusicBrainz](https://img.shields.io/badge/MusicBrainz-BA478F?logo=musicbrainz&logoColor=fff&style=plastic)
 ![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=plastic)
+![AccuWeather](https://img.shields.io/badge/-AccuWeather-orange?style=plastic)
+![OpenWeather](https://img.shields.io/badge/-OpenWeather-lightgrey?style=plastic)
+![WeatherAPI](https://img.shields.io/badge/-WeatherAPI-brightgreen/?style=plastic)
+![WeatherUnlocked](https://img.shields.io/badge/-Weather%20Unlocked-blue/?style=plastic)
+![WeatherBit.io](https://img.shields.io/badge/-WeatherBit.io-yellowgreen?style=plastic)
 
 ---
 
