@@ -38,6 +38,7 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 ---
 
 #### IDEs and Editors
+![CodePen](https://img.shields.io/badge/CodePen-000?logo=codepen&logoColor=fff&style=plastic)
 ![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=000&style=plastic)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=plastic)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
@@ -113,6 +114,7 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?logo=duckduckgo&logoColor=fff&style=plastic)
 ![Feedly](https://img.shields.io/badge/Feedly-2BB24C?logo=feedly&logoColor=fff&style=plastic)
 ![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DA552F?logo=producthunt&logoColor=fff&style=plastic)
+![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=plastic)
 ![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=plastic)
 ![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=fff&style=plastic)
 ![WikiPedia](https://img.shields.io/badge/Wikipedia-000?logo=wikipedia&logoColor=fff&style=plastic)
