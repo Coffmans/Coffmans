@@ -111,8 +111,11 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 
 ---
 #### Other Things That Help Me
+![daily.dev Badge](https://img.shields.io/badge/daily.dev-CE3DF3?logo=dailydotdev&logoColor=fff&style=plastic)
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?logo=duckduckgo&logoColor=fff&style=plastic)
 ![Feedly](https://img.shields.io/badge/Feedly-2BB24C?logo=feedly&logoColor=fff&style=plastic)
+![Google Gemini Badge](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=fff&style=plastic)
+![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=fff&style=plastic)
 ![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DA552F?logo=producthunt&logoColor=fff&style=plastic)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=plastic)
 ![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=plastic)
