@@ -127,9 +127,9 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 
 #### Medium Blog - Last 5 Posts
 <!-- BLOG-POST-LIST:START -->
+- [Take Control of Apps on Startup of Windows 11](https://medium.com/@coffmans/take-control-of-apps-on-startup-of-windows-11-5736f3775a37?source=rss-da6db9ec846b------2)
 - [Fighting the Battle of the Bulge Against Windows](https://medium.com/@coffmans/fighting-the-battle-of-the-bulge-against-windows-e2e96a65a0e4?source=rss-da6db9ec846b------2)
 - [Beyond File Explorer: Alternatives for Windows File Explorer](https://medium.com/@coffmans/beyond-file-explorer-alternatives-for-windows-file-explorer-057e4e6b54e3?source=rss-da6db9ec846b------2)
 - [How to Read a Book Without Reading a Book &lpar;Free Alternatives to Blinkist&rpar;](https://medium.com/@coffmans/how-to-read-a-book-without-reading-a-book-free-alternatives-to-blinkist-b93d6ea37c1e?source=rss-da6db9ec846b------2)
 - [One Developer’s Interview —A Disaster In The Making?](https://medium.com/@coffmans/the-interview-a-disaster-in-the-making-ae2283fe2f24?source=rss-da6db9ec846b------2)
-- [Chocolatey GUI](https://medium.com/@coffmans/chocolatey-gui-acfd463ef1f2?source=rss-da6db9ec846b------2)
 <!-- BLOG-POST-LIST:END -->
