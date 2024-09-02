@@ -133,3 +133,11 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 - [How to Read a Book Without Reading a Book &lpar;Free Alternatives to Blinkist&rpar;](https://medium.com/@coffmans/how-to-read-a-book-without-reading-a-book-free-alternatives-to-blinkist-b93d6ea37c1e?source=rss-da6db9ec846b------2)
 - [One Developer’s Interview —A Disaster In The Making?](https://medium.com/@coffmans/the-interview-a-disaster-in-the-making-ae2283fe2f24?source=rss-da6db9ec846b------2)
 <!-- BLOG-POST-LIST:END -->
+
+#### Notion Templates ####
+- [Read/Watch/Listen Later](https://www.notion.so/templates/readwatchlisten)
+- [Digital Detox - Break The Cycle](https://www.notion.so/templates/digital-detox-break-the-cycle)
+- [X-Day Challenge](https://www.notion.so/templates/x-day-challenge)
+- [7 Levels Deep Exercise](https://www.notion.so/templates/7-levels-deep-exercise)
+- [Action Figure Collector](https://www.notion.so/templates/action-figure-collector)
+
