@@ -19,7 +19,7 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff&style=plastic)](https://fosstodon.org/@Coffmans)
 [![Medium](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=plastic)](https://www.medium.com/@coffmans)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=plastic)](https://dev.to/coffmans)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=plastic)](https://twitter.com/NUHuskerz)
+[![X](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=plastic)](https://x.com/NUHuskerz)
 [![Bio Link Badge](https://img.shields.io/badge/Bio%20Link-000?logo=biolink&logoColor=fff&style=plastic)](https://bio.link/coffman)
 [![Gumroad Badge](https://img.shields.io/badge/Gumroad-36A9AE?logo=gumroad&logoColor=fff&style=plastic)](https://coffmans.gumroad.com/)
 
