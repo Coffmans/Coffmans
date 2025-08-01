@@ -51,7 +51,7 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 
 ---
 
-#### Services and Interfaces
+#### APIs I've Worked With
 ![Billboard](https://img.shields.io/badge/Billboard-000?logo=billboard&logoColor=fff&style=plastic)
 ![Deezer](https://img.shields.io/badge/Deezer-FEAA2D?logo=deezer&logoColor=fff&style=plastic)
 ![Discogs](https://img.shields.io/badge/Discogs-333?logo=discogs&logoColor=fff&style=plastic)
@@ -80,6 +80,7 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 ![BitWarden](https://img.shields.io/badge/Bitwarden-175DDC?logo=bitwarden&logoColor=fff&style=plastic)
 ![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff&style=plastic)
 ![Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=googlechrome&logoColor=fff&style=plastic)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=plastic)
 ![FireFox](https://img.shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=fff&style=plastic)
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?logo=gitkraken&logoColor=fff&style=plastic)
 ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=plastic)
@@ -89,11 +90,13 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 ![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=fff&style=plastic)
 ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=plastic)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=plastic)
+![Rancher Badge](https://img.shields.io/badge/Rancher-0075A8?logo=rancher&logoColor=fff&style=plastic)
 ![Resharper](https://img.shields.io/badge/ReSharper-000?logo=resharper&logoColor=fff&style=plastic)
 ![SourceTree](https://img.shields.io/badge/Sourcetree-0052CC?logo=sourcetree&logoColor=fff&style=plastic)
 ![Stylus](https://img.shields.io/badge/Stylus-333?logo=stylus&logoColor=fff&style=plastic)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=plastic)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=plastic)
+![VMware Badge](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=fff&style=plastic)
 ![WireShark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=fff&style=plastic)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?logo=windowsterminal&logoColor=fff&style=plastic)
 ![Zapier Badge](https://img.shields.io/badge/Zapier-FF4A00?logo=zapier&logoColor=fff&style=plastic)
@@ -108,9 +111,10 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 ![Udacity Badge](https://img.shields.io/badge/Udacity-02B3E4?logo=udacity&logoColor=fff&style=plastic)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff&style=plastic)
 
-
 ---
+
 #### Other Things That Help Me
+![Claude Badge](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff&style=plastic)
 ![daily.dev Badge](https://img.shields.io/badge/daily.dev-CE3DF3?logo=dailydotdev&logoColor=fff&style=plastic)
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?logo=duckduckgo&logoColor=fff&style=plastic)
 ![Feedly](https://img.shields.io/badge/Feedly-2BB24C?logo=feedly&logoColor=fff&style=plastic)
