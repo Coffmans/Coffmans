@@ -133,6 +133,13 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 
 ---
 
+#### Interested In Learning
+- [Akka.NET](https://getakka.net/)
+- [AWS](https://aws.amazon.com/)
+- [Python](https://www.python.org/)
+  
+---
+
 #### Medium Blog - Last 5 Posts
 <!-- BLOG-POST-LIST:START -->
 - [Revolutionize Your Notion Experience with Notion Saver Extension](https://medium.com/@coffmans/revolutionize-your-notion-experience-with-notion-saver-extension-a32673683583?source=rss-da6db9ec846b------2)
