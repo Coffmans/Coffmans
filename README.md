@@ -22,6 +22,7 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 [![X](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=plastic)](https://x.com/NUHuskerz)
 [![Bio Link Badge](https://img.shields.io/badge/Bio%20Link-000?logo=biolink&logoColor=fff&style=plastic)](https://bio.link/coffman)
 [![Gumroad Badge](https://img.shields.io/badge/Gumroad-36A9AE?logo=gumroad&logoColor=fff&style=plastic)](https://coffmans.gumroad.com/)
+[![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=plastic)](https://www.notion.com/@coffman)
 
 ---
 
@@ -78,6 +79,7 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 
 #### Tools I Use
 ![BitWarden](https://img.shields.io/badge/Bitwarden-175DDC?logo=bitwarden&logoColor=fff&style=plastic)
+![Brave Badge](https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=fff&style=plastic)
 ![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff&style=plastic)
 ![Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=googlechrome&logoColor=fff&style=plastic)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=plastic)
@@ -96,6 +98,8 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 ![Stylus](https://img.shields.io/badge/Stylus-333?logo=stylus&logoColor=fff&style=plastic)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=plastic)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=plastic)
+![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-EF3939?logo=vivaldi&logoColor=fff&style=plastic)
+![VLC media player Badge](https://img.shields.io/badge/VLC%20media%20player-F80?logo=vlcmediaplayer&logoColor=fff&style=plastic)
 ![VMware Badge](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=fff&style=plastic)
 ![WireShark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=fff&style=plastic)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?logo=windowsterminal&logoColor=fff&style=plastic)
