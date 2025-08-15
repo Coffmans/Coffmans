@@ -87,6 +87,7 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?logo=gitkraken&logoColor=fff&style=plastic)
 ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=plastic)
 ![IFTTT Badge](https://img.shields.io/badge/IFTTT-000?logo=ifttt&logoColor=fff&style=plastic)
+![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=plastic)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft%20Edge-0078D7?logo=microsoftedge&logoColor=fff&style=plastic)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=fff&style=plastic)
 ![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=fff&style=plastic)
@@ -119,6 +120,7 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 
 #### Other Things That Help Me
 ![Claude Badge](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff&style=plastic)
+![ChatGPT](https://img.shields.io/badge/chatgpt-white?style=plastic&logo=openai&logoColor=%23412991)
 ![daily.dev Badge](https://img.shields.io/badge/daily.dev-CE3DF3?logo=dailydotdev&logoColor=fff&style=plastic)
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?logo=duckduckgo&logoColor=fff&style=plastic)
 ![Feedly](https://img.shields.io/badge/Feedly-2BB24C?logo=feedly&logoColor=fff&style=plastic)
