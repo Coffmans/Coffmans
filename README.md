@@ -137,6 +137,8 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 - [Akka.NET](https://getakka.net/)
 - [AWS](https://aws.amazon.com/)
 - [Python](https://www.python.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- And Much More
   
 ---
 
