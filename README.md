@@ -22,7 +22,6 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 [![X](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=plastic)](https://x.com/NUHuskerz)
 [![Bio Link Badge](https://img.shields.io/badge/Bio%20Link-000?logo=biolink&logoColor=fff&style=plastic)](https://bio.link/coffman)
 [![Gumroad Badge](https://img.shields.io/badge/Gumroad-36A9AE?logo=gumroad&logoColor=fff&style=plastic)](https://coffmans.gumroad.com/)
-[![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=plastic)](https://www.notion.com/@coffman)
 
 ---
 
@@ -46,7 +45,6 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 ---
 
 #### Source Control
-![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff&style=plastic)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic)
 ![Perforce](https://img.shields.io/badge/Perforce-404040?logo=perforce&logoColor=fff&style=plastic)
 
@@ -78,6 +76,7 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 ---
 
 #### Tools I Use
+![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff&style=plastic)
 ![BitWarden](https://img.shields.io/badge/Bitwarden-175DDC?logo=bitwarden&logoColor=fff&style=plastic)
 ![Brave Badge](https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=fff&style=plastic)
 ![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff&style=plastic)
@@ -90,8 +89,10 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=plastic)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft%20Edge-0078D7?logo=microsoftedge&logoColor=fff&style=plastic)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=fff&style=plastic)
+![n8n Badge](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=fff&style=plastic)
 ![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=fff&style=plastic)
 ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=plastic)
+![Podman Badge](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=fff&style=plastic)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=plastic)
 ![Rancher Badge](https://img.shields.io/badge/Rancher-0075A8?logo=rancher&logoColor=fff&style=plastic)
 ![Resharper](https://img.shields.io/badge/ReSharper-000?logo=resharper&logoColor=fff&style=plastic)
