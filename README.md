@@ -163,3 +163,5 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 - [7 Levels Deep Exercise](https://www.notion.so/templates/7-levels-deep-exercise)
 - [Action Figure Collector](https://www.notion.so/templates/action-figure-collector)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coffmans&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
