@@ -110,6 +110,18 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 
 ---
 
+#### Self-Hosted
+![Ghost Badge](https://img.shields.io/badge/Ghost-15171A?logo=ghost&logoColor=fff&style=plastic)
+![Homepage Badge](https://img.shields.io/badge/Homepage-009BD5?logo=homepage&logoColor=fff&style=plastic)
+![Jellyfin Badge](https://img.shields.io/badge/Jellyfin-00A4DC?logo=jellyfin&logoColor=fff&style=plastic)
+![n8n Badge](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=fff&style=plastic)
+![Ollama Badge](https://img.shields.io/badge/Ollama-000?logo=ollama&logoColor=fff&style=plastic)
+![Portainer Badge](https://img.shields.io/badge/Portainer-13BEF9?logo=portainer&logoColor=fff&style=plastic)
+![Syncthing Badge](https://img.shields.io/badge/Syncthing-0891D1?logo=syncthing&logoColor=fff&style=plastic)
+![Uptime Kuma Badge](https://img.shields.io/badge/Uptime%20Kuma-5CDD8B?logo=uptimekuma&logoColor=000&style=plastic)
+
+---
+
 #### Learning
 ![Coursera Badge](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff&style=plastic)
 ![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=fff&style=plastic)
@@ -128,10 +140,12 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 ![GitHub Copilot Badge](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=plastic)
 ![Google Gemini Badge](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=fff&style=plastic)
 ![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=fff&style=plastic)
+![NotebookLM Badge](https://img.shields.io/badge/NotebookLM-000?logo=notebooklm&logoColor=fff&style=plastic)
 ![Perplexity Badge](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff&style=plastic)
 ![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DA552F?logo=producthunt&logoColor=fff&style=plastic)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=plastic)
 ![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=plastic)
+![Tailscale Badge](https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=fff&style=plastic)
 ![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=fff&style=plastic)
 ![WikiPedia](https://img.shields.io/badge/Wikipedia-000?logo=wikipedia&logoColor=fff&style=plastic)
 ![XDA Developers Badge](https://img.shields.io/badge/XDA%20Developers-EA7100?logo=xdadevelopers&logoColor=fff&style=plastic)
