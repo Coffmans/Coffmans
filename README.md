@@ -171,6 +171,11 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 <!-- BLOG-POST-LIST:END -->
 
 #### Notion Templates ####
+- [Git Cheat Sheet](https://www.notion.com/templates/git-cheat-sheet)
+- [Dev Testing Hub (Still Awaiting Approval from Notion)](https://www.notion.com/templates/dev-testing-hub)
+- [Travel Hub (Still Awaiting Approval from Notion)](https://www.notion.com/templates/travel-hub-627)
+- [My Daily Ritual — The Blueprint for Becoming](https://www.notion.com/templates/my-daily-ritual-the-blueprint-for-becoming)
+- [Recovery Journey Hub](https://www.notion.com/templates/recovery-journey-hub)
 - [Read/Watch/Listen Later](https://www.notion.so/templates/readwatchlisten)
 - [Digital Detox - Break The Cycle](https://www.notion.so/templates/digital-detox-break-the-cycle)
 - [X-Day Challenge](https://www.notion.so/templates/x-day-challenge)
