@@ -176,7 +176,7 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 - [Daily Reset OS (Still Awaiting Approval from Notion)](https://www.notion.com/templates/daily-reset-os)
 - [Digital Detox HQ (Still Awaiting Approval from Notion)](https://www.notion.com/templates/digita-detox-hq)
 - [Git Cheat Sheet](https://www.notion.com/templates/git-cheat-sheet)
-- [Dev Testing Hub (Still Awaiting Approval from Notion)](https://www.notion.com/templates/dev-testing-hub)
+- [Dev Testing Hub](https://www.notion.com/templates/dev-testing-hub)
 - [Travel Hub (Still Awaiting Approval from Notion)](https://www.notion.com/templates/travel-hub-627)
 - [My Daily Ritual — The Blueprint for Becoming](https://www.notion.com/templates/my-daily-ritual-the-blueprint-for-becoming)
 - [Recovery Journey Hub](https://www.notion.com/templates/recovery-journey-hub)
