@@ -173,10 +173,9 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 #### Notion Templates ####
 - [Homebase OS (Still Awaiting Approval from Notion)](https://www.notion.com/templates/homebase-os)
 - [The Tidy Machine (Still Awaiting Approval from Notion)](https://www.notion.com/templates/the-tidy-machine)
-- [Daily Reset OS (Still Awaiting Approval from Notion)](https://www.notion.com/templates/daily-reset-os)
-- [Digital Detox HQ (Still Awaiting Approval from Notion)](https://www.notion.com/templates/digita-detox-hq)
-- [Travel Hub (Still Awaiting Approval from Notion)](https://www.notion.com/templates/travel-hub-627)
-- [Self-Evaluation Performance Review (Still Awaiting Approval from Notion)](https://www.notion.com/templates/self-evaluation-review)
+- [Daily Reset OS](https://www.notion.com/templates/daily-reset-os)
+- [Digital Detox HQ](https://www.notion.com/templates/digita-detox-hq)
+- [Self-Evaluation Performance Review](https://www.notion.com/templates/self-evaluation-review)
 - [My Daily Performance Tracking](https://www.notion.com/templates/my-daily-performance-tracking)
 - [Git Cheat Sheet](https://www.notion.com/templates/git-cheat-sheet)
 - [Dev Testing Hub](https://www.notion.com/templates/dev-testing-hub)
