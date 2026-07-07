@@ -171,8 +171,8 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 <!-- BLOG-POST-LIST:END -->
 
 #### Notion Templates ####
-- [Homebase OS (Still Awaiting Approval from Notion)](https://www.notion.com/templates/homebase-os)
-- [The Tidy Machine (Still Awaiting Approval from Notion)](https://www.notion.com/templates/the-tidy-machine)
+- [Homebase OS](https://www.notion.com/templates/homebase-os)
+- [The Tidy Machine](https://www.notion.com/templates/the-tidy-machine)
 - [Daily Reset OS](https://www.notion.com/templates/daily-reset-os)
 - [Digital Detox HQ](https://www.notion.com/templates/digita-detox-hq)
 - [Self-Evaluation Performance Review](https://www.notion.com/templates/self-evaluation-review)
