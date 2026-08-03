@@ -3,7 +3,7 @@
 #### A Quick Introduction
 I'm a jack of all trades. I am the Director of US Product Development, Product Manager for several products, and a software developer. 
 
-- 🪐 I'm responsible for leading developers, documentation specialists, and assistant product managers
+- 🪐 I'm responsible for leading developers, documentation specialists, and many others
 - 🧪 I'm the principle developer for legacy products
 - 🔭 I’m currently working on **a variety of projects**
 - 🌱 I’m currently learning **as much as I can**
