@@ -171,6 +171,7 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 <!-- BLOG-POST-LIST:END -->
 
 #### Notion Templates ####
+- [Imposter Syndrome Toolkit-Pending Approval](https://www.notion.com/templates/imposter-syndrome-toolkit)
 - [Docker Cheat Sheet-Pending Approval](https://www.notion.com/templates/docker-cheat-sheet)
 - [Homebase OS](https://www.notion.com/templates/homebase-os)
 - [The Tidy Machine](https://www.notion.com/templates/the-tidy-machine)
