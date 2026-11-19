@@ -1,167 +1,111 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?width=600&size=24&lines=Who+Am+I?;Hi,+I'm+Shawn,+Welcome+To+My+Profile;I+am+Director+of+US+Product+Development;+Product+Manager+For+Several+Products;+And+Software+Developer!)](https://git.io/typing-svg)
+<!-- Header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:239120&height=180&section=header&text=Shawn%20Coffman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Leading%20product%20teams%20by%20day%20%E2%80%A2%20Building%20Windows%20utilities%20by%20night&descAlignY=58&descSize=16" width="100%" />
 
-#### A Quick Introduction
-I'm a jack of all trades. I am the Director of US Product Development, Product Manager for several products, and a software developer. 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=239120&center=true&vCenter=true&width=600&lines=Director+of+US+Product+Development;Product+Manager+%E2%80%A2+Software+Developer;Started+in+COBOL.+Still+shipping+code." alt="Typing SVG" /></a>
+</p>
 
-- 🪐 I'm responsible for leading developers, documentation specialists, and many others
-- 🧪 I'm the principle developer for legacy products
-- 🔭 I’m currently working on **a variety of projects**
-- 🌱 I’m currently learning **as much as I can**
-- 💬 Ask me about **whatever you want**
-- ⚡ Fun fact **I started my career in COBOL which was a lifetime ago**
-- 👀 I love coding and learning new things about technology
-- 💜 Interests include comic books, DIY projects, playing Fortnite with my family
-
----
-
-#### Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic)](https://www.linkedin.com/in/shawncoffman)
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff&style=plastic)](https://fosstodon.org/@Coffmans)
-[![Medium](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=plastic)](https://www.medium.com/@coffmans)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=plastic)](https://dev.to/coffmans)
-[![X](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=plastic)](https://x.com/NUHuskerz)
-[![Bio Link Badge](https://img.shields.io/badge/Bio%20Link-000?logo=biolink&logoColor=fff&style=plastic)](https://bio.link/coffman)
-[![Gumroad Badge](https://img.shields.io/badge/Gumroad-36A9AE?logo=gumroad&logoColor=fff&style=plastic)](https://coffmans.gumroad.com/)
+<p align="center">
+  <a href="https://coffmans.github.io"><img src="https://img.shields.io/badge/Website-239120?style=for-the-badge&logo=googlechrome&logoColor=fff" /></a>
+  <a href="https://www.linkedin.com/in/shawncoffman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
+  <a href="https://fosstodon.org/@Coffmans"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=fff" /></a>
+  <a href="https://www.medium.com/@coffmans"><img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=fff" /></a>
+  <a href="https://dev.to/coffmans"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=fff" /></a>
+  <a href="https://x.com/NUHuskerz"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=fff" /></a>
+  <a href="https://coffmans.gumroad.com/"><img src="https://img.shields.io/badge/Gumroad-36A9AE?style=for-the-badge&logo=gumroad&logoColor=fff" /></a>
+</p>
 
 ---
 
-#### Languages & Frameworks
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=plastic)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=plastic)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=plastic)
-![C#](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=plastic)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic)
-![Powershell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=plastic)
+### 👋 About Me
+
+I lead developers, documentation specialists, and product teams as **Director of US Product Development** — and I still write code. I'm the principal developer on our legacy products, and on my own time I build small Windows utilities, mostly around audio metadata, music APIs, and making Windows behave.
+
+- ⚡ I started my career in **COBOL**, which was a lifetime ago
+- 🧰 Most of what I build is **C# / .NET** desktop tooling
+- 🏠 I run a **self-hosted homelab** (Docker, n8n, Ollama, Jellyfin, Uptime Kuma)
+- 📚 Currently learning **Python, TypeScript, AWS, and Akka.NET**
+- 💜 Outside of code: comic books, DIY projects, and Fortnite with my family
 
 ---
 
-#### IDEs and Editors
-![CodePen](https://img.shields.io/badge/CodePen-000?logo=codepen&logoColor=fff&style=plastic)
-![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=000&style=plastic)
-![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=plastic)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
+### 🛠️ Tech I Work With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,c,cpp,powershell,html,css&perline=7" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,githubactions,docker,postman,jira,notion,windows,ubuntu&perline=11" />
+</p>
+
+<details>
+<summary><b>Homelab & self-hosted stack</b></summary>
+<br />
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?logo=portainer&logoColor=fff&style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=fff&style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000?logo=ollama&logoColor=fff&style=flat-square)
+![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?logo=jellyfin&logoColor=fff&style=flat-square)
+![Ghost](https://img.shields.io/badge/Ghost-15171A?logo=ghost&logoColor=fff&style=flat-square)
+![Homepage](https://img.shields.io/badge/Homepage-009BD5?logo=homepage&logoColor=fff&style=flat-square)
+![Syncthing](https://img.shields.io/badge/Syncthing-0891D1?logo=syncthing&logoColor=fff&style=flat-square)
+![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kuma-5CDD8B?logo=uptimekuma&logoColor=000&style=flat-square)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=fff&style=flat-square)
+
+</details>
+
+<details>
+<summary><b>APIs I've worked with</b></summary>
+<br />
+
+**Music:** Spotify · Last.fm · MusicBrainz · Discogs · Deezer · iTunes · Billboard<br />
+**Weather:** AccuWeather · OpenWeather · WeatherAPI · Weather Unlocked · WeatherBit.io
+
+</details>
+
+<details>
+<summary><b>AI tools in my workflow</b></summary>
+<br />
+
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff&style=flat-square)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=flat-square)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=fff&style=flat-square)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=fff&style=flat-square)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-000?logo=notebooklm&logoColor=fff&style=flat-square)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff&style=flat-square)
+
+</details>
 
 ---
 
-#### Source Control
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic)
-![Perforce](https://img.shields.io/badge/Perforce-404040?logo=perforce&logoColor=fff&style=plastic)
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Coffmans/TotalTagger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Coffmans&repo=TotalTagger&theme=transparent&hide_border=true&title_color=239120&icon_color=239120" /></a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Coffmans/WhatsTheWeather"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Coffmans&repo=WhatsTheWeather&theme=transparent&hide_border=true&title_color=239120&icon_color=239120" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Coffmans/TagDisplay"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Coffmans&repo=TagDisplay&theme=transparent&hide_border=true&title_color=239120&icon_color=239120" /></a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Coffmans/ProcessOverwatchV2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Coffmans&repo=ProcessOverwatchV2&theme=transparent&hide_border=true&title_color=239120&icon_color=239120" /></a>
+    </td>
+  </tr>
+</table>
+
+<!-- TIP: drop a GIF of each app in action under its card (e.g. ![TotalTagger demo](assets/totaltagger.gif)) — it's the single biggest visual upgrade you can make. -->
 
 ---
 
-#### APIs I've Worked With
-![Billboard](https://img.shields.io/badge/Billboard-000?logo=billboard&logoColor=fff&style=plastic)
-![Deezer](https://img.shields.io/badge/Deezer-FEAA2D?logo=deezer&logoColor=fff&style=plastic)
-![Discogs](https://img.shields.io/badge/Discogs-333?logo=discogs&logoColor=fff&style=plastic)
-![iTunes](https://img.shields.io/badge/iTunes-FB5BC5?logo=itunes&logoColor=fff&style=plastic)
-![LastFM](https://img.shields.io/badge/Last.fm-D51007?logo=lastdotfm&logoColor=fff&style=plastic)
-![MusicBrainz](https://img.shields.io/badge/MusicBrainz-BA478F?logo=musicbrainz&logoColor=fff&style=plastic)
-![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=plastic)
-![AccuWeather](https://img.shields.io/badge/-AccuWeather-orange?style=plastic)
-![OpenWeather](https://img.shields.io/badge/-OpenWeather-lightgrey?style=plastic)
-![WeatherAPI](https://img.shields.io/badge/-WeatherAPI-brightgreen/?style=plastic)
-![WeatherUnlocked](https://img.shields.io/badge/-Weather%20Unlocked-blue/?style=plastic)
-![WeatherBit.io](https://img.shields.io/badge/-WeatherBit.io-yellowgreen?style=plastic)
+### ✍️ Latest From My Blog
 
----
-
-#### Operating Systems
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=plastic)
-![iOS Badge](https://img.shields.io/badge/iOS-000?logo=ios&logoColor=fff&style=plastic)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-000?logo=ubuntu&logoColor=fff&style=plastic)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=plastic)
-![Windows11](https://img.shields.io/badge/Windows%2011-0078D4?logo=windows11&logoColor=fff&style=plastic)
-
----
-
-#### Tools I Use
-![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff&style=plastic)
-![BitWarden](https://img.shields.io/badge/Bitwarden-175DDC?logo=bitwarden&logoColor=fff&style=plastic)
-![Brave Badge](https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=fff&style=plastic)
-![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff&style=plastic)
-![Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=googlechrome&logoColor=fff&style=plastic)
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=plastic)
-![FireFox](https://img.shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=fff&style=plastic)
-![GitKraken](https://img.shields.io/badge/GitKraken-179287?logo=gitkraken&logoColor=fff&style=plastic)
-![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=plastic)
-![IFTTT Badge](https://img.shields.io/badge/IFTTT-000?logo=ifttt&logoColor=fff&style=plastic)
-![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=plastic)
-![Microsoft Edge](https://img.shields.io/badge/Microsoft%20Edge-0078D7?logo=microsoftedge&logoColor=fff&style=plastic)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=fff&style=plastic)
-![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=fff&style=plastic)
-![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=plastic)
-![Podman Badge](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=fff&style=plastic)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=plastic)
-![Rancher Badge](https://img.shields.io/badge/Rancher-0075A8?logo=rancher&logoColor=fff&style=plastic)
-![Resharper](https://img.shields.io/badge/ReSharper-000?logo=resharper&logoColor=fff&style=plastic)
-![SourceTree](https://img.shields.io/badge/Sourcetree-0052CC?logo=sourcetree&logoColor=fff&style=plastic)
-![Stylus](https://img.shields.io/badge/Stylus-333?logo=stylus&logoColor=fff&style=plastic)
-![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=plastic)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=plastic)
-![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-EF3939?logo=vivaldi&logoColor=fff&style=plastic)
-![VLC media player Badge](https://img.shields.io/badge/VLC%20media%20player-F80?logo=vlcmediaplayer&logoColor=fff&style=plastic)
-![VMware Badge](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=fff&style=plastic)
-![WireShark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=fff&style=plastic)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?logo=windowsterminal&logoColor=fff&style=plastic)
-![Zapier Badge](https://img.shields.io/badge/Zapier-FF4A00?logo=zapier&logoColor=fff&style=plastic)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=fff&style=plastic)
-
----
-
-#### Self-Hosted
-![Ghost Badge](https://img.shields.io/badge/Ghost-15171A?logo=ghost&logoColor=fff&style=plastic)
-![Homepage Badge](https://img.shields.io/badge/Homepage-009BD5?logo=homepage&logoColor=fff&style=plastic)
-![Jellyfin Badge](https://img.shields.io/badge/Jellyfin-00A4DC?logo=jellyfin&logoColor=fff&style=plastic)
-![n8n Badge](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=fff&style=plastic)
-![Ollama Badge](https://img.shields.io/badge/Ollama-000?logo=ollama&logoColor=fff&style=plastic)
-![Portainer Badge](https://img.shields.io/badge/Portainer-13BEF9?logo=portainer&logoColor=fff&style=plastic)
-![Syncthing Badge](https://img.shields.io/badge/Syncthing-0891D1?logo=syncthing&logoColor=fff&style=plastic)
-![Uptime Kuma Badge](https://img.shields.io/badge/Uptime%20Kuma-5CDD8B?logo=uptimekuma&logoColor=000&style=plastic)
-
----
-
-#### Learning
-![Coursera Badge](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff&style=plastic)
-![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=fff&style=plastic)
-![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?logo=microsoft&logoColor=fff&style=plastic)
-![Udacity Badge](https://img.shields.io/badge/Udacity-02B3E4?logo=udacity&logoColor=fff&style=plastic)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff&style=plastic)
-
----
-
-#### Other Things That Help Me
-![Claude Badge](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff&style=plastic)
-![ChatGPT](https://img.shields.io/badge/chatgpt-white?style=plastic&logo=openai&logoColor=%23412991)
-![daily.dev Badge](https://img.shields.io/badge/daily.dev-CE3DF3?logo=dailydotdev&logoColor=fff&style=plastic)
-![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?logo=duckduckgo&logoColor=fff&style=plastic)
-![Feedly](https://img.shields.io/badge/Feedly-2BB24C?logo=feedly&logoColor=fff&style=plastic)
-![GitHub Copilot Badge](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=plastic)
-![Google Gemini Badge](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=fff&style=plastic)
-![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=fff&style=plastic)
-![Namecheap Badge](https://img.shields.io/badge/Namecheap-DE3723?logo=namecheap&logoColor=fff&style=plastic)
-![NotebookLM Badge](https://img.shields.io/badge/NotebookLM-000?logo=notebooklm&logoColor=fff&style=plastic)
-![Perplexity Badge](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff&style=plastic)
-![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DA552F?logo=producthunt&logoColor=fff&style=plastic)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=plastic)
-![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=plastic)
-![Tailscale Badge](https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=fff&style=plastic)
-![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=fff&style=plastic)
-![WikiPedia](https://img.shields.io/badge/Wikipedia-000?logo=wikipedia&logoColor=fff&style=plastic)
-![XDA Developers Badge](https://img.shields.io/badge/XDA%20Developers-EA7100?logo=xdadevelopers&logoColor=fff&style=plastic)
-
----
-
-#### Interested In Learning
-- [Akka.NET](https://getakka.net/)
-- [AWS](https://aws.amazon.com/)
-- [Python](https://www.python.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- And Much More
-  
----
-
-#### Medium Blog - Last 5 Posts
 <!-- BLOG-POST-LIST:START -->
 - [Revolutionize Your Notion Experience with Notion Saver Extension](https://medium.com/@coffmans/revolutionize-your-notion-experience-with-notion-saver-extension-a32673683583?source=rss-da6db9ec846b------2)
 - [Take Control of Apps on Startup of Windows 11](https://medium.com/@coffmans/take-control-of-apps-on-startup-of-windows-11-5736f3775a37?source=rss-da6db9ec846b------2)
@@ -170,30 +114,43 @@ I'm a jack of all trades. I am the Director of US Product Development, Product M
 - [How to Read a Book Without Reading a Book &lpar;Free Alternatives to Blinkist&rpar;](https://medium.com/@coffmans/how-to-read-a-book-without-reading-a-book-free-alternatives-to-blinkist-b93d6ea37c1e?source=rss-da6db9ec846b------2)
 <!-- BLOG-POST-LIST:END -->
 
-#### Notion Templates ####
-- [Imposter Syndrome Toolkit](https://www.notion.com/templates/imposter-syndrome-toolkit)
-- [Docker Cheat Sheet](https://www.notion.com/templates/docker-cheat-sheet)
-- [Homebase OS](https://www.notion.com/templates/homebase-os)
-- [The Tidy Machine](https://www.notion.com/templates/the-tidy-machine)
-- [Daily Reset OS](https://www.notion.com/templates/daily-reset-os)
-- [Digital Detox HQ](https://www.notion.com/templates/digita-detox-hq)
-- [Self-Evaluation Performance Review](https://www.notion.com/templates/self-evaluation-review)
-- [My Daily Performance Tracking](https://www.notion.com/templates/my-daily-performance-tracking)
-- [Git Cheat Sheet](https://www.notion.com/templates/git-cheat-sheet)
-- [Dev Testing Hub](https://www.notion.com/templates/dev-testing-hub)
-- [My Daily Ritual — The Blueprint for Becoming](https://www.notion.com/templates/my-daily-ritual-the-blueprint-for-becoming)
-- [Recovery Journey Hub](https://www.notion.com/templates/recovery-journey-hub)
-- [Read/Watch/Listen Later](https://www.notion.so/templates/readwatchlisten)
-- [Digital Detox - Break The Cycle](https://www.notion.so/templates/digital-detox-break-the-cycle)
-- [X-Day Challenge](https://www.notion.so/templates/x-day-challenge)
-- [7 Levels Deep Exercise](https://www.notion.so/templates/7-levels-deep-exercise)
-- [Action Figure Collector](https://www.notion.so/templates/action-figure-collector)
+---
+
+### 🗂️ Notion Templates
+
+<details>
+<summary><b>17 published templates on the Notion Marketplace</b> — click to expand</summary>
+<br />
+
+| Productivity | Developer | Wellbeing & Life |
+|---|---|---|
+| [Homebase OS](https://www.notion.com/templates/homebase-os) | [Docker Cheat Sheet](https://www.notion.com/templates/docker-cheat-sheet) | [Imposter Syndrome Toolkit](https://www.notion.com/templates/imposter-syndrome-toolkit) |
+| [The Tidy Machine](https://www.notion.com/templates/the-tidy-machine) | [Git Cheat Sheet](https://www.notion.com/templates/git-cheat-sheet) | [Digital Detox HQ](https://www.notion.com/templates/digita-detox-hq) |
+| [Daily Reset OS](https://www.notion.com/templates/daily-reset-os) | [Dev Testing Hub](https://www.notion.com/templates/dev-testing-hub) | [Digital Detox - Break The Cycle](https://www.notion.so/templates/digital-detox-break-the-cycle) |
+| [My Daily Performance Tracking](https://www.notion.com/templates/my-daily-performance-tracking) | [Self-Evaluation Performance Review](https://www.notion.com/templates/self-evaluation-review) | [Recovery Journey Hub](https://www.notion.com/templates/recovery-journey-hub) |
+| [Read/Watch/Listen Later](https://www.notion.so/templates/readwatchlisten) | | [My Daily Ritual](https://www.notion.com/templates/my-daily-ritual-the-blueprint-for-becoming) |
+| [X-Day Challenge](https://www.notion.so/templates/x-day-challenge) | | [7 Levels Deep Exercise](https://www.notion.so/templates/7-levels-deep-exercise) |
+| | | [Action Figure Collector](https://www.notion.so/templates/action-figure-collector) |
+
+</details>
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coffmans&theme=holi)
-<p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Coffmans&theme=holi" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Coffmans&theme=holi" />
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coffmans&theme=github_dark" width="90%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Coffmans&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Coffmans&theme=github_dark" width="45%" />
 </p>
 
+<!-- Contribution snake — generated by .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Coffmans/Coffmans/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Coffmans/Coffmans/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Coffmans/Coffmans/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:239120,100:512BD4&height=100&section=footer" width="100%" />
